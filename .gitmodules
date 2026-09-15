@@ -1,0 +1,12 @@
+[submodule "Linker"]
+	path = Linker
+	url = https://github.com/Embedbits/Bsp-Linker.git
+[submodule "Startup"]
+	path = Startup
+	url = https://github.com/Embedbits/Bsp-Startup.git
+[submodule "Mcal"]
+	path = Mcal
+	url = https://github.com/Embedbits/Bsp-Mcal.git
+[submodule "Ral"]
+	path = Ral
+	url = https://github.com/Embedbits/Bsp-Ral.git
